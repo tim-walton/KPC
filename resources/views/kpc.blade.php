@@ -28,53 +28,51 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a href="about.html">About</a>
+                    <a href="about.html">About Us</a>
                 </li>
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="full-width.html">Full Width Page</a>
+                            <a href="full-width.html">Surgical Path</a>
                         </li>
                         <li>
-                            <a href="sidebar.html">Sidebar Page</a>
+                            <a href="sidebar.html">PAP/Thin Prep&reg;</a>
                         </li>
                         <li>
-                            <a href="faq.html">FAQ</a>
+                            <a href="faq.html">Cytopathology</a>
                         </li>
                         <li>
-                            <a href="404.html">404</a>
+                            <a href="404.html">Image Directed Cytopathology</a>
                         </li>
                         <li>
-                            <a href="pricing.html">Pricing Table</a>
+                            <a href="pricing.html">View All</a>
                         </li>
+
                     </ul>
                 </li>
-                <li>
-                    <a href="contact.html">Contact</a>
-                </li>
-
-
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Staff <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="full-width.html">Full Width Page</a>
+                            <a href="full-width.html">Meet The Doctors</a>
                         </li>
                         <li>
-                            <a href="sidebar.html">Sidebar Page</a>
+                            <a href="sidebar.html">Staff Directory</a>
                         </li>
-                        <li>
-                            <a href="faq.html">FAQ</a>
-                        </li>
-                        <li>
-                            <a href="404.html">404</a>
-                        </li>
-                        <li>
-                            <a href="pricing.html">Pricing Table</a>
-                        </li>
+
                     </ul>
                 </li>
+                <li>
+                    <a href="contact.html">Contact Us</a>
+                </li>
+                <li>
+                    <a href="contact.html">Careers</a>
+                </li>
+
+
+
+
             </ul>
         </div>
         <!-- /.navbar-collapse -->
