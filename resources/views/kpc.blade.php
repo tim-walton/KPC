@@ -91,11 +91,13 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active text-center">
-            <div class="fill" style="margin: 0 auto;"><img src="images/kpc.jpg"></div>
-
+        <div class="item active">
+            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
+            <div class="carousel-caption">
+                <h2>Caption 1</h2>
+            </div>
         </div>
-       {{-- <div class="item">
+        <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
             <div class="carousel-caption">
                 <h2>Caption 2</h2>
@@ -106,7 +108,7 @@
             <div class="carousel-caption">
                 <h2>Caption 3</h2>
             </div>
-        </div>--}}
+        </div>
     </div>
 
     <!-- Controls -->
