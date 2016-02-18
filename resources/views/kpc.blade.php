@@ -92,7 +92,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <div class="" style="background-color: white; background-image:url('images/kpc.jpg');"></div>
+            <div class=""><img src="images/kpc.jpg"></div>
 
         </div>
        {{-- <div class="item">
