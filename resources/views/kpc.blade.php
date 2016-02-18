@@ -199,7 +199,7 @@
                     from Thin Prep&trade; Pap Collection</li>
                 <li>Quarterly Newsletter</li>
             </ul>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
+
         </div>
         <div class="col-md-6">
             <img class="img-responsive" src="images/cars.jpg" alt="">
@@ -213,10 +213,10 @@
     <div class="well">
         <div class="row">
             <div class="col-md-8">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias, expedita, saepe, vero rerum deleniti beatae veniam harum neque nemo praesentium cum alias asperiores commodi.</p>
+                <p>Looking for our Client Login?</p>
             </div>
             <div class="col-md-4">
-                <a class="btn btn-lg btn-default btn-block" href="#">Call to Action</a>
+                <a class="btn btn-lg btn-default btn-block" href="#">Login Here</a>
             </div>
         </div>
     </div>
@@ -227,7 +227,7 @@
     <footer>
         <div class="row">
             <div class="col-lg-12">
-                <p>Copyright &copy; Your Website 2014</p>
+                <p>Copyright &copy; Kansas Pathology Consultants P.A. | Powered by CloudInk, Inc.</p>
             </div>
         </div>
     </footer>
