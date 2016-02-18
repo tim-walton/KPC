@@ -96,10 +96,10 @@
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
         <div class="row">
-            <div class="col-sm-3">
-                <img class="img-responsive img-circle img-hover" src="../images/1.jpg" alt="">
+            <div class="col-sm-6">
+                <img class="img-responsive img-circle img-hover" height="212" width="186" src="../images/1.jpg" alt="">
                 <div class="row">
-                    <div class="col-xs-3 col-sm-3">
+                    <div class="col-sm-6">
                        <address>
                            <stong>Megan P. Redelman, M.D., FCAP</stong><br>
                            Medical Director<br>
