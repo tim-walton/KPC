@@ -91,7 +91,7 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active">
+        <div class="item active text-center">
             <div class="fill" style="margin: 0 auto;"><img src="images/kpc.jpg"></div>
 
         </div>
