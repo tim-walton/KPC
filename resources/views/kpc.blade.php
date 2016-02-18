@@ -150,16 +150,27 @@
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-check"></i> Bootstrap v3.2.0</h4>
+                    <h4><i class="fa fa-fw fa-check"></i>Who We Are</h4>
                 </div>
                 <div class="panel-body">
                     <p>Kansas Pathology Consultants P.A. is a professional association of Board Certified Anatomic and Clinical Pathologists, Cytopathologists, Cytotechnologists with a dedicated support staff.  KPC is an independent, physician owned laboratory.
 
+                        </p>
+                    <a href="#" class="btn btn-default">Learn More</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <h4><i class="fa fa-fw fa-gift"></i> What We Do</h4>
+                </div>
+                <div class="panel-body">
+                    <p>
+
                         At KPC we partner with Health Care Professionals in Clinics and Hospitals to provide Surgical Pathology, Cytology and Consultative services for superior patient care outcomes. We provide a full range of services to physician practices, surgery centers, rural hospitals and specialty clinics in Kansas and the surrounding areas.
 
-                        We strive to provide rapid diagnosis for patients and referring physicians with our Fine Needle Aspiration services and on-site Frozen Sections. We strive for quality reports with a personal touch. Our pathologists are available to answer your questions and meet any special requests you may have.
 
-                        We also provide patients and partners with Pap tests and other health care information to enable patients in assuming ownership and direction of healthcare decisions.
 
                     </p>
                     <a href="#" class="btn btn-default">Learn More</a>
@@ -169,21 +180,13 @@
         <div class="col-md-4">
             <div class="panel panel-default">
                 <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-gift"></i> Free &amp; Open Source</h4>
+                    <h4><i class="fa fa-fw fa-compass"></i> Beyond Expected</h4>
                 </div>
                 <div class="panel-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
-                    <a href="#" class="btn btn-default">Learn More</a>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="panel panel-default">
-                <div class="panel-heading">
-                    <h4><i class="fa fa-fw fa-compass"></i> Easy to Use</h4>
-                </div>
-                <div class="panel-body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque, optio corporis quae nulla aspernatur in alias at numquam rerum ea excepturi expedita tenetur assumenda voluptatibus eveniet incidunt dicta nostrum quod?</p>
+                    <p>  We strive to provide rapid diagnosis for patients and referring physicians with our Fine Needle Aspiration services and on-site Frozen Sections. We strive for quality reports with a personal touch. Our pathologists are available to answer your questions and meet any special requests you may have.
+
+
+                    </p>
                     <a href="#" class="btn btn-default">Learn More</a>
                 </div>
             </div>
