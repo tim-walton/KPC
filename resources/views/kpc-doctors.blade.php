@@ -104,9 +104,9 @@
                            <strong>Megan P. Redelman, M.D., FCAP</strong><br>
                            Medical Director<br>
                            <hr style="margin: 1px; padding: 1px;">
-                           Certified by the American Board of<br>
-                           Pathology in Anatomic Pathology, <br>
-                           Clinical Pathology and Cytopathology<br>
+                           Certified by the American Board of
+                           Pathology in Anatomic Pathology,
+                           Clinical Pathology and Cytopathology
                        </address>
                     </div>
 
