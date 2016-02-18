@@ -97,22 +97,22 @@
         </div>
         <div class="col-md-3 col-sm-6">
             <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="../images/1.jpg" alt="">
+                <img class="img-responsive img-circle img-hover" src="../images/1.jpg" alt="">
             </a>
         </div>
         <div class="col-md-3 col-sm-6">
             <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="../images/2.jpg" alt="">
+                <img class="img-responsive img-circle img-hover" src="../images/2.jpg" alt="">
             </a>
         </div>
         <div class="col-md-3 col-sm-6">
             <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="../images/3.jpg" alt="">
+                <img class="img-responsive img-circle img-hover" src="../images/3.jpg" alt="">
             </a>
         </div>
         <div class="col-md-3 col-sm-6">
             <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="../images/4.jpg" alt="">
+                <img class="img-responsive img-circle img-hover" src="../images/4.jpg" alt="">
             </a>
         </div>
     </div>
