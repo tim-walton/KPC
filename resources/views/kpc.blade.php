@@ -67,8 +67,6 @@
                     <a href="contact.html">Contact Us</a>
                 </li>
                 <li>
-                    <a href="contact.html">Careers</a>
-                </li><li>
                     <a href="contact.html">Client Login</a>
                 </li>
 
