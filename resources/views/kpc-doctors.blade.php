@@ -97,11 +97,11 @@
         </div>
         <div class="row">
             <div class="col-sm-6">
-                <img class="img-responsive img-circle img-hover" height="212" width="186" src="../images/1.jpg" alt="">
+                <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
                 <div class="row">
                     <div class="col-sm-6">
                        <address>
-                           <stong>Megan P. Redelman, M.D., FCAP</stong><br>
+                           <strong>Megan P. Redelman, M.D., FCAP</strong><br>
                            Medical Director<br>
                            <hr style="margin: 1px; padding: 1px;">
                            Certified by the American Board of<br>
@@ -112,16 +112,24 @@
 
                 </div>
             </div>
-        </div>
+            <div class="col-sm-6">
+                <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
+                <div class="row">
+                    <div class="col-sm-6">
+                        <address>
+                            <stong>Megan P. Redelman, M.D., FCAP</stong><br>
+                            Medical Director<br>
+                            <hr style="margin: 1px; padding: 1px;">
+                            Certified by the American Board of<br>
+                            Pathology in Anatomic Pathology, <br>
+                            Clinical Pathology and Cytopathology<br>
+                        </address>
+                    </div>
 
-        <div class="col-lg-3">
-            <div class="col-md-3 col-sm-6">
-                <a href="portfolio-item.html">
-
-                </a>
+                </div>
             </div>
-
         </div>
+
 
         <div class="col-md-3 col-sm-6">
             <a href="portfolio-item.html">
