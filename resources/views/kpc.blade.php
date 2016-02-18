@@ -92,12 +92,10 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide One');"></div>
-            <div class="carousel-caption">
-                <h2>Caption 1</h2>
-            </div>
+            <div class="fill" style="background-color: white; background-image:url('images/kpc.jpg');"></div>
+
         </div>
-        <div class="item">
+       {{-- <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Slide Two');"></div>
             <div class="carousel-caption">
                 <h2>Caption 2</h2>
@@ -108,7 +106,7 @@
             <div class="carousel-caption">
                 <h2>Caption 3</h2>
             </div>
-        </div>
+        </div>--}}
     </div>
 
     <!-- Controls -->
@@ -127,7 +125,7 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">
-                Welcome to Kansas Pathology Consultants P.A.
+                Kansas Pathology Consultants P.A.
             </h1>
         </div>
         <div class="col-md-4">
