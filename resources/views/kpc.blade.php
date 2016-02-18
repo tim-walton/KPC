@@ -68,6 +68,8 @@
                 </li>
                 <li>
                     <a href="contact.html">Careers</a>
+                </li><li>
+                    <a href="contact.html">Client Login</a>
                 </li>
 
 
