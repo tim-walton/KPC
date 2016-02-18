@@ -91,22 +91,22 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active">
+        <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Kansas Pathology Consultants P.A.');"></div>
             <div class="carousel-caption">
-                <h2>Need Some Artwork</h2>
+
             </div>
         </div>
         <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Inustry Leading Technology');"></div>
             <div class="carousel-caption">
-                <h2>Need Moar Artwork</h2>
+
             </div>
         </div>
         <div class="item">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Dedicated staff');"></div>
             <div class="carousel-caption">
-                <h2>Some Office Artwork</h2>
+
             </div>
         </div>
     </div>
