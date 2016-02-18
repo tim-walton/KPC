@@ -95,7 +95,7 @@
         <div class="col-lg-12">
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
-        <div class="col-lg-6">
+        <div class="col-lg-3">
             <div class="col-md-3 col-sm-6">
                 <a href="portfolio-item.html">
                     <img class="img-responsive img-circle img-hover" src="../images/1.jpg" alt="">
