@@ -91,7 +91,7 @@
 
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item">
+        <div class="item active">
             <div class="fill" style="background-image:url('http://placehold.it/1900x1080&text=Kansas Pathology Consultants P.A.');"></div>
             <div class="carousel-caption">
 
