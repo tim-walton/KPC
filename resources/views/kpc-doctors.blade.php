@@ -98,7 +98,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
-                <div class="row">
+                <div class="row col-lg-12">
                     <div class="col-sm-6">
                        <address>
                            <strong>Megan P. Redelman, M.D., FCAP</strong><br>
