@@ -92,7 +92,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
         <div class="item active">
-            <div class="fill"><img src="images/kpc.jpg"></div>
+            <div class="fill" style="margin: 0 auto;"><img src="images/kpc.jpg"></div>
 
         </div>
        {{-- <div class="item">
