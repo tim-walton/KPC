@@ -25,6 +25,6 @@
 
 Route::group(['middleware' => ['web']], function () {
     Route::get('/kpc/v1', function(){
-        echo "ASDSADAs";
+        return view('kpc');
     });
 });
