@@ -98,8 +98,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
-                <div class="row col-lg-12">
-                    <div class="col-sm-6">
+                    <div class="col-sm-5">
                        <address>
                            <strong>Megan P. Redelman, M.D., FCAP</strong><br>
                            Medical Director<br>
@@ -109,12 +108,10 @@
                            Clinical Pathology and Cytopathology
                        </address>
                     </div>
-
-                </div>
             </div>
             <div class="col-sm-6">
                 <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
-                <div class="row">
+
                     <div class="col-sm-6">
                         <address>
                             <stong>Megan P. Redelman, M.D., FCAP</stong><br>
@@ -126,7 +123,7 @@
                         </address>
                     </div>
 
-                </div>
+
             </div>
         </div>
 
