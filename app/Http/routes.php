@@ -24,7 +24,7 @@
 */
 
 Route::group(['middleware' => ['web']], function () {
-    Route::get('/kpc/v1', function(){
+    Route::get('/kpc', function(){
         return view('kpc');
     });
 });
