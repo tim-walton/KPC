@@ -17,8 +17,8 @@
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
 
-           <span class="nav-brand"><img src="images/kpc.jpg" height="64px" width="96px"> <a class="navbar-brand" href="index.html">Kansas Pathology Consultants P.A.</a>
-        </div></span>
+            <span class="nav-brand"><img src="images/kpc.jpg" height="64px" width="92px"></span>
+        </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
