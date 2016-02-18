@@ -95,15 +95,32 @@
         <div class="col-lg-12">
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
+        <div class="row">
+            <div class="col-sm-3">
+                <img class="img-responsive img-circle img-hover" src="../images/1.jpg" alt="">
+                <div class="row">
+                    <div class="col-xs-3 col-sm-3">
+                       <address>
+                           <stong>Megan P. Redelman, M.D., FCAP</stong><br>
+                           Medical Director<br>
+                           <hr style="margin: 1px; padding: 1px;">
+                           Certified by the American Board of<br>
+                           Pathology in Anatomic Pathology, <br>
+                           Clinical Pathology and Cytopathology<br>
+                       </address>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
         <div class="col-lg-3">
             <div class="col-md-3 col-sm-6">
                 <a href="portfolio-item.html">
-                    <img class="img-responsive img-circle img-hover" src="../images/1.jpg" alt="">
+
                 </a>
             </div>
-            <div class="col-md-3 col-sm-6">
-               laskdlsakjdlksajldkjsaldkajsld
-            </div>
+
         </div>
 
         <div class="col-md-3 col-sm-6">
