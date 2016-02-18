@@ -3630,6 +3630,7 @@ tbody.collapse.in {
   position: relative;
   min-height: 50px;
   margin-bottom: 20px;
+  background-color: #2e6da4;
   border: 1px solid transparent; }
   .navbar:before, .navbar:after {
     content: " ";
