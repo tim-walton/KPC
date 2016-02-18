@@ -185,15 +185,19 @@
             <h2 class="page-header">Expanded Services</h2>
         </div>
         <div class="col-md-6">
-            <p>The Modern Business template by Start Bootstrap includes:</p>
+            <p>Expanded Services from KPC include:</p>
+
             <ul>
-                <li><strong>Bootstrap v3.2.0</strong>
+                <li><strong>EMR Interface Options</strong>
                 </li>
-                <li>jQuery v1.11.0</li>
-                <li>Font Awesome v4.1.0</li>
-                <li>Working PHP contact form with validation</li>
-                <li>Unstyled page elements for easy customization</li>
-                <li>17 HTML pages</li>
+                <li>Web-Based Ordering & Reporting</li>
+                <li>Dedicated Client Service Department</li>
+                <li>Professional Dedicated Courier Service</li>
+                <li>Patient Letter for Negative Pap</li>
+                <li>Pathologists and Cytotechnologists       available to speak with clients</li>
+                <li>HPV & Gonorrhea/Chlamydia testing
+                    from Thin Prep&trade; Pap Collection</li>
+                <li>Quarterly Newsletter</li>
             </ul>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis, omnis doloremque non cum id reprehenderit, quisquam totam aspernatur tempora minima unde aliquid ea culpa sunt. Reiciendis quia dolorum ducimus unde.</p>
         </div>
