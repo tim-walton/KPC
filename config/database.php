@@ -86,10 +86,10 @@ return [
             'prefix'   => '',
         ],
         'couchbase' => [
-            'driver' => 'couchbase',
-            'host' => 'couchbase://127.0.0.1',
-            'user' => 'userName',
-            'password' => 'password',
+            'driver'    => 'couchbase',
+            'host'      => 'couchbase://127.0.0.1',
+            'user'      => 'userName',
+            'password'  => 'password',
         ],
 
     ],
