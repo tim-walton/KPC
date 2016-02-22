@@ -9,4 +9,7 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/cbq/test/1', 'cbq@testCBQ', function() {
 
     });
+    Route::get('/cbq/test/1', 'cbq@seedCBQ', function() {
+
+    });
 });
