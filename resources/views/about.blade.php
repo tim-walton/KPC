@@ -15,9 +15,9 @@
 
 
                 <p>We provide a full range of services to rural hospitals, surgery centers, physician practices, and specialty clinics in Kansas, Colorado, and surrounding areas.
-                    <br>
+
                     As a physician owned practice, we are dedicated to providing our colleagues with superior services.
-                    <br>
+
                     We strive for rapid turnaround time, quality reports with a personal touch. Our pathologists are available to answer your questions and meet any special request you may have.</p>
                 <hr>
                 <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
