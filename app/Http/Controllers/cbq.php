@@ -23,7 +23,7 @@ class cbq extends Controller
         $couch = new \CouchbaseCluster('localhost');
         $bucket = $couch->openBucket('test', '145632');
 
-        $res = $bucket->get('document_name');
+        $res = $bucket->get('wid1');
         echo 'Value: ' . $res->value;
     }
 }
