@@ -1,5 +1,5 @@
 @extends('app')
-<div class="container">
+<div class="container" style="margin-top: 250px;">
 
     <div class="blog-header">
         <h1 class="blog-title">About Us</h1>
