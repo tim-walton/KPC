@@ -133,7 +133,7 @@
     <div class="well">
         <div class="row">
             <div class="col-md-8">
-                <p>Looking for our Client Login?</p>
+                <p>Looking for our Client Login?<br><a href="#">Have questions about your bill?</a></p>
             </div>
             <div class="col-md-4">
                 <a class="btn btn-lg btn-default btn-block" href="#">Login Here</a>
