@@ -109,7 +109,6 @@
                         Previous Secretary-Treasurer, Vice-President and president of the Kansas Medical Society<br>
                         Former President of the Kansas Society of Pathologists</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
-           .col-xs-6.col-lg-4-->
         </div>
 
         <div class="row">
