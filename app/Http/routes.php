@@ -1,8 +1,6 @@
 <?php
 Route::group(['middleware' => ['web']], function () {
-    Route::get('/cbq/test', 'cbq@testCBQ', function(){
 
-    });
 
 
     Route::group(array('domain' => 'kpc.tdw.io'), function()
@@ -21,6 +19,9 @@ Route::group(['middleware' => ['web']], function () {
         });
         Route::get('/insurers', function(){
             return view('insurers');
+        });
+        Route::get('/cbq/test', 'cbq@testCBQ', function(){
+
         });
     });
 
