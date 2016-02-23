@@ -17,7 +17,7 @@ class cbq extends Controller
         $myBucket = $myCluster->openBucket('test', '145632');
         $x = 0;
         while($x < 10000) {
-            $myBucket->insert('cbq_test_'.sha1(time()), $data);
+            $myBucket->insert('cbq_test_'. sha1(rand(0000000, 9999999)), $data);
             $x++;
         }
 
