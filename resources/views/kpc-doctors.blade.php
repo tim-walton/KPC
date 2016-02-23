@@ -100,22 +100,24 @@
             <div class="col-xs-6 col-lg-4 text-center">
                 <h3>Megan P. Redelman, M.D., FCAP</h3>
                 <p><img src="images/1.jpg" class="img-thumbnail"></p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <p><small>Certified by the American Board of Pathology in Anatomic Pathology, Clinical Pathology and Cytopathology</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4 text-center">
                 <h3>Ward M. Newcomb, M.D., FCAP</h3>
                 <p><img src="images/2.jpg" class="img-thumbnail"></p>
-                <p> details  </p>
+                <p><small>Certified by the American Board of Pathology in Anatomic, Clinical , and Radioisotope Pathology
+                        Previous Secretary-Treasurer, Vice-President and president of the Kansas Medical Society
+                        Former President of the Kansas Society of Pathologists</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4 text-center">
                 <h3>Debra K. Barns, M.D.</h3>
                 <p><img src="images/3.jpg" class="img-thumbnail"></p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <p><small>Certified by the American Board of Pathology in Anatomic Pathology and Cytopathology</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4 text-center">
                 <h3>Lyle J. Noordhoek, M.D., FCAP</h3>
                 <p><img src="images/4.jpg" class="img-thumbnail"></p>
-                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+                <p><small>Certified by the American Board of Pathology in Anatomic and Clinical Pathology</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
 
         </div>
