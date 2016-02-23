@@ -114,12 +114,15 @@
                 <p><img src="images/3.jpg" class="img-thumbnail"></p>
                 <p><small>Certified by the American Board of Pathology in Anatomic Pathology and Cytopathology</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
-            <div class="col-xs-6 col-lg-4 text-center">
-                <h3>Lyle J. Noordhoek, M.D., FCAP</h3>
-                <p><img src="images/4.jpg" class="img-thumbnail"></p>
-                <p><small>Certified by the American Board of Pathology in Anatomic and Clinical Pathology</small></p>
-            </div><!--/.col-xs-6.col-lg-4-->
-
+                    </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <div class="col-xs-6 col-lg-4 text-center">
+                    <h3>Lyle J. Noordhoek, M.D., FCAP</h3>
+                    <p><img src="images/4.jpg" class="img-thumbnail"></p>
+                    <p><small>Certified by the American Board of Pathology in Anatomic and Clinical Pathology</small></p>
+                </div><!--/.col-xs-6.col-lg-4-->
+            </div>
         </div>
     </div>
     <!-- /.row -->
