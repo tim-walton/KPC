@@ -95,48 +95,9 @@
         <div class="col-lg-12">
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
-        <div class="row">
-            <div class="col-sm-6">
-                <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
-                    <div class="col-sm-5">
-                       <address>
-                           <strong>Megan P. Redelman, M.D., FCAP</strong><br>
-                           Medical Director<br>
-                           <hr style="margin: 1px; padding: 1px;">
-                           Certified by the American Board of
-                           Pathology in Anatomic Pathology,
-                           Clinical Pathology and Cytopathology
-                       </address>
-                    </div>
-            </div>{{----}}
-            <div class="col-sm-6">
-                <img class="img-responsive img-portfolio img-hover" height="212px" width="186px" src="../images/1.jpg" alt="">
+        <div class="col-lg-12">
 
-                    <div class="col-sm-6">
-                        <address>
-                            <stong>Megan P. Redelman, M.D., FCAP</stong><br>
-                            Medical Director<br>
-                            <hr style="margin: 1px; padding: 1px;">
-                            Certified by the American Board of<br>
-                            Pathology in Anatomic Pathology, <br>
-                            Clinical Pathology and Cytopathology<br>
-                        </address>
-                    </div>
-
-
-            </div>
-        </div>
-
-
-        <div class="col-md-3 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-circle img-hover" src="../images/3.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-md-3 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-circle img-hover" src="../images/4.jpg" alt="">
-            </a>
+           <div class="col-xs-4"><div class="col-xs-4">Header</div><img src="images/1.jpg" class="img-thumbnail"></div>
         </div>
     </div>
     <!-- /.row -->
