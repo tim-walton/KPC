@@ -57,7 +57,7 @@
                 </div>
                 <div class="panel-body">
                     <p>Kansas Pathology Consultants P.A. is a professional association of Board Certified Anatomic and Clinical Pathologists, Cytopathologists, Cytotechnologists with a dedicated support staff.  KPC is an independent, physician owned laboratory.
-<br><br><br>
+<br><br>
                         </p>
                     <a href="#" class="btn btn-default">Learn More</a>
                 </div>
