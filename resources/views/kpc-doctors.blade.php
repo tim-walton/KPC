@@ -109,11 +109,7 @@
                         Previous Secretary-Treasurer, Vice-President and president of the Kansas Medical Society<br>
                         Former President of the Kansas Society of Pathologists</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
-            <div class="col-xs-6 col-lg-4 text-center">
-                <h3>Debra K. Barns, M.D.</h3>
-                <p><img src="images/3.jpg" class="img-thumbnail"></p>
-                <p><small>Certified by the American Board of Pathology in Anatomic Pathology and Cytopathology</small></p>
-            </div><!--/.col-xs-6.col-lg-4-->
+           .col-xs-6.col-lg-4-->
                     </div>
         <div class="row">
             <div class="col-lg-12 text-center">
@@ -122,6 +118,11 @@
                     <p><img src="images/4.jpg" class="img-thumbnail"></p>
                     <p><small>Certified by the American Board of Pathology in Anatomic and Clinical Pathology</small></p>
                 </div><!--/.col-xs-6.col-lg-4-->
+                <div class="col-xs-6 col-lg-4 text-center">
+                    <h3>Debra K. Barns, M.D.</h3>
+                    <p><img src="images/3.jpg" class="img-thumbnail"></p>
+                    <p><small>Certified by the American Board of Pathology in Anatomic Pathology and Cytopathology</small></p>
+                </div><!--/
             </div>
         </div>
     </div>
