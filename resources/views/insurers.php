@@ -152,7 +152,7 @@
                         <td>Yes</td>
                     </tr>
                     <tr>
-                        <td>Wichita Preferred Provider Associates (WPPA Network)</td>
+                        <td>Wichita Preferred Provider Associates (WPPA Network)-</td>
                         <td>Yes</td>
                     </tr>
 
