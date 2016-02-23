@@ -97,7 +97,7 @@
         </div>
         <div class="col-lg-12">
 
-           <div class="col-xs-4"><div class="col-xs-4">Header</div><img src="images/1.jpg" class="img-thumbnail"></div>
+           <div class="col-xs-4"><div class="col-xs-2">Header</div><img src="images/1.jpg" class="img-thumbnail"></div>
         </div>
     </div>
     <!-- /.row -->
