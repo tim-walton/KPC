@@ -97,8 +97,8 @@
         </div>
         <div class="row">
             <div class="col-xs-6 col-lg-4">
-                <h2>Megan P. Redelman, M.D., FCAP</h2>
-                <p>\<img src="images/1.jpg" class="img-thumbnail"></p>
+                <h3>Megan P. Redelman, M.D., FCAP</h3>
+                <p><img src="images/1.jpg" class="img-thumbnail"></p>
                 <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4">
