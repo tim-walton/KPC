@@ -28,6 +28,17 @@
 <br><br>
                     "The performance of one affects the performance of all."  Everyone at KPC works toward the goal of improving the products and services we provide to you and to the patients we serve. </p>
             </div><!-- /.blog-post -->
+            <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+                <div class="sidebar-module sidebar-module-inset">
+                    <img src="images/cap.jpg">
+                </div>
+                <div class="sidebar-module">
+
+                </div>
+                <div class="sidebar-module">
+
+                </div>
+            </div>
 <hr>
             <div class="blog-post">
                <img src="images/cars2.jpg" class="img-thumbnail">
@@ -54,17 +65,7 @@
                 </div>
             </div>
         </footer>
-        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-            <div class="sidebar-module sidebar-module-inset">
-                <img src="images/cap.jpg">
-            </div>
-            <div class="sidebar-module">
 
-            </div>
-            <div class="sidebar-module">
-
-            </div>
-        </div>
 </div>
 </div>
 <!-- /.container -->
