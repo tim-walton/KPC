@@ -24,6 +24,6 @@ class cbq extends Controller
         $bucket = $couch->openBucket('test', '145632');
 
         $res = $bucket->get('wid1');
-        echo 'Value: ' . $res->value;
+        echo $res->value;
     }
 }
