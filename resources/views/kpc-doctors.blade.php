@@ -98,22 +98,22 @@
         <div class="row">
             <div class="col-xs-6 col-lg-4">
                 <h2>Megan P. Redelman, M.D., FCAP</h2>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p>\<img src="images/1.jpg" class="img-thumbnail"></p>
                 <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4">
                 <h3>Ward M. Newcomb, M.D., FCAP</h3>
-                <p><img src="images/1.jpg" class="img-thumbnail"></p>
+                <p><img src="images/2.jpg" class="img-thumbnail"></p>
                 <p> details  </p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4">
                 <h3>Debra K. Barns, M.D.</h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><img src="images/3.jpg" class="img-thumbnail"></p>
                 <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!--/.col-xs-6.col-lg-4-->
             <div class="col-xs-6 col-lg-4">
                 <h3>Lyle J. Noordhoek, M.D., FCAP</h3>
-                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><img src="images/4.jpg" class="img-thumbnail"></p>
                 <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
             </div><!--/.col-xs-6.col-lg-4-->
 
