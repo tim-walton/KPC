@@ -34,20 +34,12 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="full-width.html">Surgical Path</a>
+                            <a href="/services">View Our Services</a>
                         </li>
                         <li>
-                            <a href="sidebar.html">PAP/Thin Prep&reg;</a>
+                            <a href="/insurers">Participating Insurers</a>
                         </li>
-                        <li>
-                            <a href="faq.html">Cytopathology</a>
-                        </li>
-                        <li>
-                            <a href="404.html">Image Directed Cytopathology</a>
-                        </li>
-                        <li>
-                            <a href="pricing.html">View All</a>
-                        </li>
+
 
                     </ul>
                 </li>
