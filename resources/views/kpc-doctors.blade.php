@@ -97,12 +97,12 @@
                 <small>Our physician staff includes Megan P. Redelman, M.D., FCAP, who serves as our Medical Director,  Debra K. Barns, M.D., Lyle J. Noordhoek, M.D., FCAP, our Staff Pathologists, and Ward M. Newcomb, M.D., FCAP, Staff Pathologist and President of Kansas Pathology Consultants, P.A.  Our support staff is educated, experienced and capable, assisting the physicians and cytotechnologists in order to consistently produce quality services and reliable work products on time and at a reasonable fee.  </small></h2>
         </div>
         <div class="row">
-            <div class="col-xs-6 col-lg-4 text-center">
+            <div class="col-xs-6 col-lg-6 text-center">
                 <h3>Megan P. Redelman, M.D., FCAP</h3>
                 <p><img src="images/1.jpg" class="img-thumbnail"></p>
                 <p><small>Certified by the American Board of Pathology in Anatomic Pathology, Clinical Pathology and Cytopathology</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
-            <div class="col-xs-6 col-lg-4 text-center">
+            <div class="col-xs-6 col-lg-6 text-center">
                 <h3>Ward M. Newcomb, M.D., FCAP</h3>
                 <p><img src="images/2.jpg" class="img-thumbnail"></p>
                 <p><small>Certified by the American Board of Pathology in Anatomic, Clinical , and Radioisotope Pathology<br>
@@ -110,20 +110,21 @@
                         Former President of the Kansas Society of Pathologists</small></p>
             </div><!--/.col-xs-6.col-lg-4-->
            .col-xs-6.col-lg-4-->
-                    </div>
+        </div>
+
         <div class="row">
-            <div class="col-lg-12 text-center">
-                <div class="col-xs-6 col-lg-4 text-center">
+
+                <div class="col-xs-6 col-lg-6 text-center">
                     <h3>Lyle J. Noordhoek, M.D., FCAP</h3>
                     <p><img src="images/4.jpg" class="img-thumbnail"></p>
                     <p><small>Certified by the American Board of Pathology in Anatomic and Clinical Pathology</small></p>
                 </div><!--/.col-xs-6.col-lg-4-->
-                <div class="col-xs-6 col-lg-4 text-center">
+                <div class="col-xs-6 col-lg-6 text-center">
                     <h3>Debra K. Barns, M.D.</h3>
                     <p><img src="images/3.jpg" class="img-thumbnail"></p>
                     <p><small>Certified by the American Board of Pathology in Anatomic Pathology and Cytopathology</small></p>
-                </div><!--/
-            </div>
+                </div>
+
         </div>
     </div>
     <!-- /.row -->
