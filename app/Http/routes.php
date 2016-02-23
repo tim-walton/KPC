@@ -23,6 +23,9 @@ Route::group(['middleware' => ['web']], function () {
         Route::get('/cbq/test', 'cbq@testCBQ', function(){
 
         });
+        Route::get('/cbq/seed', 'cbq@seedCBQ', function(){
+
+        });
     });
 
 });
