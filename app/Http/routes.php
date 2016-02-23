@@ -6,10 +6,8 @@ Route::group(['middleware' => ['web']], function () {
     Route::get('/kpc/doctors', function(){
         return view('kpc-doctors');
     });
-    Route::get('/cbq/test/1', 'cbq@testCBQ', function() {
 
-    });
-    Route::get('/cbq/seed/1', 'cbq@seedCBQ', function() {
+    Route::get('/weatherapi/v1', function(){
 
     });
 });
