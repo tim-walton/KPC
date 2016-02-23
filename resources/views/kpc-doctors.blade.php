@@ -96,9 +96,9 @@
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
         <div class="col-lg-12">
-            <div style="width: 33%; height: 14px; border-bottom: 1px #ccc solid;"></div>
-            <div style="width: 33%; height: 14px; border-bottom: 1px #ccc solid;"></div>
-            <div style="width: 33%; height: 14px; border-bottom: 1px #ccc solid;"></div>
+            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
+            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
+            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
             <div style="width: 33%; height: 200px;"></div>
             <div style="width: 33%; height: 200px;"></div>
             <div style="width: 33%; height: 200px;"></div>
