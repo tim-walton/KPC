@@ -34,7 +34,13 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Services <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="/services">View Our Services</a>
+                            <a href="/services">Our Services</a>
+                        </li>
+                        <li>
+                            <a href="/services">Consulting Services</a>
+                        </li>
+                        <li>
+                            <a href="/services">Surgical Pathology</a>
                         </li>
                         <li>
                             <a href="/insurers">Participating Insurers</a>
