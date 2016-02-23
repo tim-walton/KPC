@@ -45,18 +45,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
-                <div class="sidebar-module sidebar-module-inset">
-                  <img src="images/cap.jpg">
-                </div>
-                <div class="sidebar-module">
 
-                </div>
-                <div class="sidebar-module">
-
-                </div>
-            </div>
-    </div><!-- /.row --> <!-- Footer -->
+    </div>
         <footer>
             <div class="row">
                 <div class="col-lg-12">
@@ -64,8 +54,18 @@
                 </div>
             </div>
         </footer>
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+            <div class="sidebar-module sidebar-module-inset">
+                <img src="images/cap.jpg">
+            </div>
+            <div class="sidebar-module">
 
+            </div>
+            <div class="sidebar-module">
 
+            </div>
+        </div>
+</div>
 </div>
 <!-- /.container -->
 
