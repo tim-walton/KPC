@@ -95,13 +95,27 @@
         <div class="col-lg-12">
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
-        <div class="col-lg-12">
-            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
-            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
-            <div style="width: 30%; height: 14px; border-bottom: 1px #ccc solid;"></div>
-            <div style="width: 33%; height: 200px;"></div>
-            <div style="width: 33%; height: 200px;"></div>
-            <div style="width: 33%; height: 200px;"></div>
+        <div class="row">
+            <div class="col-xs-6 col-lg-4">
+                <h2>Megan P. Redelman, M.D., FCAP</h2>
+                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-xs-6 col-lg-4">
+                <h2>Ward M. Newcomb, M.D., FCAP</h2>
+                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-xs-6 col-lg-4">
+                <h2>Debra K. Barns, M.D.</h2>
+                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
+            <div class="col-xs-6 col-lg-4">
+                <h2>Lyle J. Noordhoek, M.D., FCAP</h2>
+                <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
+                <p><a class="btn btn-default" href="#" role="button">View details »</a></p>
+            </div><!--/.col-xs-6.col-lg-4-->
 
         </div>
     </div>
