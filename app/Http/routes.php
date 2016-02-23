@@ -15,6 +15,10 @@ Route::group(['middleware' => ['web']], function () {
         Route::get('/doctors', function(){
             return view('kpc-doctors');
         });
+
+        Route::get('/about', function(){
+            return view('about');
+        });
     });
 
 });
