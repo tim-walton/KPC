@@ -1,6 +1,6 @@
 <?php
 Route::group(['middleware' => ['web']], function () {
-    Route::get('/kpc', function(){
+    Route::get('/cbq/test', 'cbq@testCBQ', function(){
 
     });
 

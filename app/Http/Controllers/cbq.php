@@ -20,11 +20,10 @@ class cbq extends Controller
     }
     function testCBQ()
     {
-        $myCluster = new CouchbaseCluster('couchbase://localhost');
-        $myBucket = $myCluster->openBucket('default');
-        $myBucket->enableN1ql(array('http://1.1.1.1:8093/','http://1.1.1.2:8093/'));
-        $query = \CouchbaseN1qlQuery::fromString('SELECT * FROM cbq_test');
-        $res = $myBucket->query($query);
-        echo($res);
+        $couch = new \CouchbaseCluster('localhost');
+        $bucket = $couch->openBucket('test', '145632');
+
+        $res = $bucket->get('document_name');
+        echo 'Value: ' . $res->value;
     }
 }
