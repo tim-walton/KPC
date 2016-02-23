@@ -20,7 +20,7 @@
 
                     We strive for rapid turnaround time, quality reports with a personal touch. Our pathologists are available to answer your questions and meet any special request you may have.</p>
                 <hr>
-                <p>We are a professional association of Board Certified Anatomic and Clinical Pathologists, Cytopathologists, Radioisotopic Pathologist and Cytotechnologists with a dedicated support staff.
+                <h4>We are a professional association of Board Certified Anatomic and Clinical Pathologists, Cytopathologists, Radioisotopic Pathologist and Cytotechnologists with a dedicated support staff.</h4>
 <p class="text-center"><img src="images/cap.jpg" class="img-thumbnail"></p>
                     We are a Physician owned multi-state provider of Medical Pathology Services. We have maintained continuous voluntary accreditation with the College of American Pathologists since 1970. Our pathologists are all Board Certified and/or are Fellows of the College of American Pathologists (FCAP). We subscribe to ongoing self-inspection and ongoing educational programs in the realm of Surgical Pathology, Cytopathology and Clinical Consultative Services in Pathology. We are a member laboratory of the American Society of Cytopathology. Currently we hold physician licenses in Kansas, Nebraska, Colorado, Tennessee, Ohio, Illinois, New Mexico, Oklahoma, Texas. Our CLIA license is continuously maintained.
 <br><br>
