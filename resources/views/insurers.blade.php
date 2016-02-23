@@ -22,9 +22,9 @@
                 <h3>Participating Insurers</h3>
                 <table class="table table-bordered table-responsive">
                     <thead>
-                    <tr>
+                    <tr style="background-color: #c0c0c0;">
                         <td>Insurer</td>
-                        <td>Coverage Provided</td>
+                        
                     </tr>
                     </thead>
                     <tbody>
@@ -32,128 +32,128 @@
 
                     <tr>
                         <td>American Healthcare Alliance Network</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Blue Cross/Blue Shield of KS, OK, NE, MO, CO
                         </td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Blue Select-Premier Blue</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>ChampVA</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Choice Care Network</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Cigna (Preferred Health Care Network, Health Partners of KS Network)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Colorado Migrant Program</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Early Detection Works (Cowley, Crawford, Rooks, and Sedgwick Counties)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Every Woman Matters</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Fiserv</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>First Health</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>First Guard</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Great Rivers Network</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Health Partners of Kansas</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Healthlink Network</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Health Partners of Kansas</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td> Heartland Health</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>KS Breast and Cervical Cancer Initiative (KBCCI)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>KS Health Plan</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Medicaid (KS, MO, AR, NE, and CO)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Medicare</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Midlands Choice</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Molina Healthcare of New Mexico (formerly Cimarron Health Plan)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Preferred Health Systems</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Preferred Plus of Kansas</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Principle Health Care</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Project Access</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Railroad Medicare (Travelers)</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Sloans Lake Managed Care</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Triwest</td>
-                        <td>Yes</td>
+                        
                     </tr>
                     <tr>
                         <td>Wichita Preferred Provider Associates (WPPA Network)-</td>
-                        <td>Yes</td>
+                        
                     </tr>
 
 
