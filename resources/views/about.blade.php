@@ -3,11 +3,14 @@
 
     <!-- Marketing Icons Section -->
     <div class="row">
-        <div class="jumbotron">
-            <h1>About Us</h1>
-            <p class="lead">Kansas Pathology Consultants, P.A. is an independent, physician owned laboratory specializing is Surgical Pathology and Cytology. We are accredited by the College of American Pathologists.</p>
-            <p>We provide a full range of services to rural hospitals, surgery centers, physician practices, and specialty clinics in Kansas, Colorado, and surrounding areas.</p>
+        <div class="col-lg-12">
+            <div class="jumbotron">
+                <h2>About Us</h2>
+                <p class="lead">Kansas Pathology Consultants, P.A. is an independent, physician owned laboratory specializing is Surgical Pathology and Cytology. We are accredited by the College of American Pathologists.</p>
+                <p>We provide a full range of services to rural hospitals, surgery centers, physician practices, and specialty clinics in Kansas, Colorado, and surrounding areas.</p>
+            </div>
         </div>
+
     </div>
     <!-- /.row -->
 
