@@ -108,8 +108,8 @@
             <p>Expanded Services from KPC include:</p>
 
             <ul>
-                <li><strong>EMR Interface Options</strong>
-                </li>
+                <li>EMR Interface Options</li>
+
                 <li>Web-Based Ordering & Reporting</li>
                 <li>Dedicated Client Service Department</li>
                 <li>Professional Dedicated Courier Service</li>
@@ -122,7 +122,7 @@
 
         </div>
         <div class="col-md-6">
-            <img class="img-responsive" src="images/cars.jpg" alt="">
+            <img class="img-thumbnail" src="images/cars.jpg" alt="">
         </div>
     </div>
     <!-- /.row -->
