@@ -31,8 +31,8 @@
 
 <hr>
             <div class="blog-post">
-               <img src="images/cars2.jpg" class="img-thumbnail">
-                <p></p>
+
+                <p class="text-center"><img src="images/cars2.jpg" class="img-thumbnail"></p>
             </div><!-- /.blog-post -->
 
             <hr>
