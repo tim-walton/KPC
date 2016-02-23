@@ -93,7 +93,8 @@
     <!-- Portfolio Section -->
     <div class="row">
         <div class="col-lg-12">
-            <h2 class="page-header">Meet The Doctors</h2>
+            <h2 class="page-header">Meet The Doctors<br>
+                <small>Our physician staff includes Megan P. Redelman, M.D., FCAP, who serves as our Medical Director,  Debra K. Barns, M.D., Lyle J. Noordhoek, M.D., FCAP, our Staff Pathologists, and Ward M. Newcomb, M.D., FCAP, Staff Pathologist and President of Kansas Pathology Consultants, P.A.  Our support staff is educated, experienced and capable, assisting the physicians and cytotechnologists in order to consistently produce quality services and reliable work products on time and at a reasonable fee.  </small></h2>
         </div>
         <div class="row">
             <div class="col-xs-6 col-lg-4 text-center">
