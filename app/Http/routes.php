@@ -19,7 +19,7 @@ Route::group(['middleware' => ['web']], function () {
         Route::get('/about', function(){
             return view('about');
         });
-        Route::get('/about', function(){
+        Route::get('/insurers', function(){
             return view('insurers');
         });
     });
