@@ -22,7 +22,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" style="color: #1D3BD6;" href="index.html">Kansas Pathology Consultants P.A.</a>
+            <a class="navbar-brand" style="color: #1D3BD6;" href="/home">Kansas Pathology Consultants P.A.</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -55,7 +55,7 @@
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Our Staff <b class="caret"></b></a>
                     <ul class="dropdown-menu">
                         <li>
-                            <a href="full-width.html">Meet The Doctors</a>
+                            <a href="/doctors">Meet The Doctors</a>
                         </li>
                         <li>
                             <a href="sidebar.html">Staff Directory</a>
