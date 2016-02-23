@@ -73,4 +73,4 @@
     </div>
     <!-- /.container -->
 </nav>
-<div style="padding-top: 400px;" >&nbsp;</div>
+<div style="margin-top: 400px;" >&nbsp;</div>
