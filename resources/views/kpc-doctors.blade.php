@@ -96,8 +96,13 @@
             <h2 class="page-header">Meet The Doctors</h2>
         </div>
         <div class="col-lg-12">
+            <div style="width: 33%; height: 14px;"></div>
+            <div style="width: 33%; height: 14px;"></div>
+            <div style="width: 33%; height: 14px;"></div>
+            <div style="width: 33%; height: 200px;"></div>
+            <div style="width: 33%; height: 200px;"></div>
+            <div style="width: 33%; height: 200px;"></div>
 
-           <div class="col-xs-4"><div class="col-xs-2">Header</div><img src="images/1.jpg" class="img-thumbnail"></div>
         </div>
     </div>
     <!-- /.row -->
