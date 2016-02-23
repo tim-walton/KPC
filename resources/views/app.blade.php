@@ -57,10 +57,6 @@
                         <li>
                             <a href="/doctors">Meet The Doctors</a>
                         </li>
-                        <li>
-                            <a href="sidebar.html">Staff Directory</a>
-                        </li>
-
                     </ul>
                 </li>
                 <li>
