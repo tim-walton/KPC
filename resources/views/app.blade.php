@@ -57,8 +57,24 @@
                         </li>
                     </ul>
                 </li>
-                <li>
-                    <a href="contact.html">Contact Us</a>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Contact <b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li>
+                            <a href="/contact">Contact Us</a>
+                        </li>
+                        <li>
+                            <a href="/billing">Billing Questions</a>
+                        </li>
+                        <li>
+                            <a href="/careers">Careers</a>
+                        </li>
+                        <li>
+                            <a href="/facebook">Facebook</a>
+                        </li>
+
+
+                    </ul>
                 </li>
                 <li>
                     <a href="contact.html">Client Login</a>
