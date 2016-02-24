@@ -3,7 +3,7 @@
 </header>
 <div class="container">
 
-            <div class="well text-center" style="margin-top: 120px;">
+            <div class="well text-center" style="margin-top: 60px;">
 
                     <form class="form-signin text-center">
                         <h2 class="form-signin-heading">Please sign in</h2>
