@@ -2,8 +2,8 @@
 <header>
 </header>
 <div class="container text-center">
-    <div class="row text-center">
-        <div class="col-xs-12 text-center">
+
+
             <div class="col-lg-4 text-center" style="margin: 0 auto;">
                 <form class="form-signin text-center">
                     <h2 class="form-signin-heading">Please sign in</h2>
@@ -19,8 +19,7 @@
                     <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
                 </form>
             </div>
-        </div>
-    </div>
+
 </div>
 <hr>
 <footer>
