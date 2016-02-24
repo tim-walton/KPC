@@ -11,10 +11,10 @@
     <!-- /.row -->
     <!-- Portfolio Section -->
     <div class="row">
-        <div class="col-lg-12">
+        <div class="col-lg-4">
             <form class="form-signin">
                 <h2 class="form-signin-heading">Please sign in</h2>
-                <label for="inputEmail" class="sr-only">Email address</label>
+                <label for="inputEmail" class="sr-only">Client ID</label>
                 <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
                 <label for="inputPassword" class="sr-only">Password</label>
                 <input type="password" id="inputPassword" class="form-control" placeholder="Password" required>
@@ -38,7 +38,7 @@
 <footer>
     <div class="row">
         <div class="col-lg-12">
-            <p>Copyright &copy; Your Website 2014</p>
+            <p>Copyright &copy; Kansas Pathology Consultants P.A. | Powered by CloudInk, Inc.</p>
         </div>
     </div>
 </footer>
