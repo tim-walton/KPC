@@ -5,7 +5,8 @@
 
             <div class="well text-center" style="margin-top: 40px;">
 
-                    <form class="form-signin text-center">
+                    <form class="form-signin text-center" action="/login" method="POST">
+                        {!! csrf_field() !!}
                         <h2 class="form-signin-heading">Please sign in</h2>
                         <label for="inputEmail" class="sr-only">Client ID</label>
                         <input type="email" id="inputEmail" class="form-control" placeholder="Email address" required autofocus>
