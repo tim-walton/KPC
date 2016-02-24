@@ -1,7 +1,7 @@
 @extends('app')
 <header>
 </header>
-<div class="container">
+<div class="container text-center">
     <div class="row text-center">
         <div class="col-xs-12 text-center">
             <div class="col-lg-4 text-center" style="margin: 0 auto;">
