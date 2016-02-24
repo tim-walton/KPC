@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row text-center">
         <div class="col-xs-12 text-center">
-            <div class="col-lg-4 text-center">
+            <div class="col-lg-4 text-center" style="margin: 0 auto;">
                 <form class="form-signin text-center">
                     <h2 class="form-signin-heading">Please sign in</h2>
                     <label for="inputEmail" class="sr-only">Client ID</label>
