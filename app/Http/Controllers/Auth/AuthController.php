@@ -61,9 +61,13 @@ class AuthController extends Controller
      * @param  array  $data
      * @return User
      */
-    protected function create(array $data)
-    {
+
+    function getLogin(array $data) {
         $user = DB::select("SELECT user_name as name FROM kpc_users WHERE user_name=?", [$data['name']]);
         die($user);
+    }
+    protected function create(array $data)
+    {
+
     }
 }
