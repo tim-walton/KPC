@@ -1,17 +1,9 @@
 @extends('app')
-        <!-- Header Carousel -->
 <header>
 </header>
-
-<!-- Page Content -->
 <div class="container">
-
-    <!-- Marketing Icons Section -->
-
-    <!-- /.row -->
-    <!-- Portfolio Section -->
     <div class="row text-center">
-        <div class="text-center">
+        <div class="col-xs-12 text-center">
             <div class="col-lg-4">
                 <form class="form-signin">
                     <h2 class="form-signin-heading">Please sign in</h2>
@@ -30,11 +22,7 @@
         </div>
     </div>
 </div>
-
 <hr>
-
-
-<!-- Footer -->
 <footer>
     <div class="row">
         <div class="col-lg-12">
