@@ -18,6 +18,9 @@ Route::group(['middleware' => ['web']], function () {
         Route::get('/insurers', function(){
             return view('insurers');
         });
+        Route::get('/login', function(){
+            return view('login');
+        });
 
     });
 
