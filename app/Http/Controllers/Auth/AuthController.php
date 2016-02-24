@@ -7,7 +7,7 @@ use Validator;
 use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ThrottlesLogins;
 use Illuminate\Foundation\Auth\AuthenticatesAndRegistersUsers;
-
+use DB;
 class AuthController extends Controller
 {
     /*
@@ -63,9 +63,7 @@ class AuthController extends Controller
      */
     protected function create(array $data)
     {
-        return User::create([
-            'user_name' => $data['name'],
-            'user_password' => bcrypt($data['password']),
-        ]);
+        $user = DB::select("SELECT user_name as name FROM kpc_users WHERE user_name=?", [$data['name']]);
+        print($user);
     }
 }
