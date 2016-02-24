@@ -1,10 +1,10 @@
 @extends('app')
 <header>
 </header>
-<div class="container text-center">
+<div class="container">
 
 
-            <div class="col-lg-4 text-center" style="margin: 0 auto;">
+            <div class="col-lg-4" style="margin: 0 auto; !important;">
                 <form class="form-signin text-center">
                     <h2 class="form-signin-heading">Please sign in</h2>
                     <label for="inputEmail" class="sr-only">Client ID</label>
