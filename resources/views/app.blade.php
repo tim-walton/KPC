@@ -69,15 +69,11 @@
                         <li>
                             <a href="/careers">Careers</a>
                         </li>
-                        <li>
-                            <a href="/facebook">Facebook</a>
-                        </li>
-
 
                     </ul>
                 </li>
                 <li>
-                    <a href="contact.html">Client Login</a>
+                    <a href="/login">Client Login</a>
                 </li>
 
 
