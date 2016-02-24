@@ -70,19 +70,12 @@
                         <li>
                             <a href="/careers">Careers</a>
                         </li>
-
                     </ul>
                 </li>
                 <li>
                     <a href="/login">Client Login</a>
                 </li>
-
-
-
-
             </ul>
         </div>
-        <!-- /.navbar-collapse -->
     </div>
-    <!-- /.container -->
 </nav>

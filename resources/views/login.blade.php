@@ -4,7 +4,7 @@
 <div class="container">
 
             <div class="well text-center">
-                <div class="col-lg-4" style="margin: 0 auto; !important;">
+
                     <form class="form-signin text-center">
                         <h2 class="form-signin-heading">Please sign in</h2>
                         <label for="inputEmail" class="sr-only">Client ID</label>
@@ -18,7 +18,7 @@
                         </div>
                         <button class="btn btn-lg btn-primary btn-block" type="submit">Sign in</button>
                     </form>
-                </div>
+
             </div>
 
 
